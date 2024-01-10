@@ -2,6 +2,13 @@
 
 Este proyecto es una página web de StarBuck Coffe, desarrollada con HTML, CSS y JavaScript. La página incluye secciones como Inicio, Acerca de Nosotros, Menú, Servicio y Contacto.
 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://frabjous-praline-7e480f.netlify.app/#).
+
+![StarBuck Coffe](https://github.com/DannyCrisostomo/StarBuck-coffe/blob/ce48013614dda4ed6280dc74ae3d96cbddd02fc8/StarBuck.png)
+
+
 ## Instrucciones
 
 1. Descarga o clona este repositorio.
@@ -25,9 +32,6 @@ Explora las diferentes secciones y disfruta de la experiencia de StarBuck Coffe.
 - Sección "Contacto" con un formulario para enviar mensajes.
 - **Modo oscuro:** Puedes activar el modo oscuro haciendo clic en el botón de cambio.
 
-## Vista Previa
-
-![StarBuck Coffe](https://github.com/DannyCrisostomo/StarBuck-coffe/blob/ce48013614dda4ed6280dc74ae3d96cbddd02fc8/StarBuck.png)
 
 ## Contribuciones
 
