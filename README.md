@@ -46,7 +46,3 @@ Explora las diferentes secciones y disfruta de la experiencia de StarBuck Coffe.
 ## Desarrollador
 
 Este proyecto fue desarrollado por Danny Crisostomo.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo `LICENSE` para más detalles.
