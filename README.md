@@ -41,7 +41,7 @@ Explora las diferentes secciones y disfruta de la experiencia de StarBuck Coffe.
 
 - Teléfono: +51 936083812
 - Email: Dannyvidalcrisostomocuri@gmail.com
-- GitHub: [DannyBomtenS](https://github.com/DannyCrisostomo)
+- GitHub: [DannyCrisostomo](https://github.com/DannyCrisostomo)
 
 ## Desarrollador
 
